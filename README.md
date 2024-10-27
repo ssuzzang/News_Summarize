@@ -33,14 +33,14 @@
 
 ### 6. 결론
 - 이 프로젝트는 사용자가 원하는 정보를 간편하게 제공받을 수 있도록 돕고, 머신러닝 기술을 활용한 유용한 응용 프로그램의 예시가 되었으면 함.
-- 이를 통해 사용자는 뉴스 소비의 효율성을 높일 수 있으며, 기술을 활용한 정보 전달의 새로운 방법을 경험할 수 있다.
+- 이를 통해 사용자는 뉴스 소비의 효율성을 높일 수 있으며, 기술을 활용한 정보 전달의 새로운 방법을 경험할 수 있음.
 
 ### 7. Reference
-- BeautifulSoup Documentation: 웹 스크래핑에 사용되는 BeautifulSoup 라이브러리의 공식 문서입니다.
-- lxml Documentation: lxml 라이브러리에 대한 공식 문서로, XML 및 HTML 처리를 위한 다양한 기능을 제공합니다.
-- Requests Documentation: HTTP 요청을 간편하게 수행할 수 있는 Requests 라이브러리의 공식 문서입니다.
-- Gensim Documentation: Gensim 라이브러리에 대한 공식 문서로, 자연어 처리 및 문서 요약에 필요한 다양한 기능을 제공합니다.
+- BeautifulSoup Documentation: 웹 스크래핑에 사용되는 BeautifulSoup 라이브러리의 공식 문서.
+- lxml Documentation: lxml 라이브러리에 대한 공식 문서로, XML 및 HTML 처리를 위한 다양한 기능을 제공.
+- Requests Documentation: HTTP 요청을 간편하게 수행할 수 있는 Requests 라이브러리의 공식 문서.
+- Gensim Documentation: Gensim 라이브러리에 대한 공식 문서로, 자연어 처리 및 문서 요약에 필요한 다양한 기능을 제공.
 - Kakao Developer: 카카오 API와 관련된 공식 개발자 문서입니다.
-- Medium Tutorial on Web Scraping with BeautifulSoup: BeautifulSoup을 사용한 웹 스크래핑 튜토리얼입니다.
-- Introduction to Natural Language Processing: 자연어 처리 개념에 대한 소개 및 예제입니다.
+- Medium Tutorial on Web Scraping with BeautifulSoup: BeautifulSoup을 사용한 웹 스크래핑 튜토리얼.
+- Introduction to Natural Language Processing: 자연어 처리 개념에 대한 소개 및 예제.
 
