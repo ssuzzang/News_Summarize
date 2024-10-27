@@ -36,11 +36,11 @@
 - 이를 통해 사용자는 뉴스 소비의 효율성을 높일 수 있으며, 기술을 활용한 정보 전달의 새로운 방법을 경험할 수 있음.
 
 ### 7. Reference
-- BeautifulSoup Documentation: 웹 스크래핑에 사용되는 BeautifulSoup 라이브러리의 공식 문서.
-- lxml Documentation: lxml 라이브러리에 대한 공식 문서로, XML 및 HTML 처리를 위한 다양한 기능을 제공.
-- Requests Documentation: HTTP 요청을 간편하게 수행할 수 있는 Requests 라이브러리의 공식 문서.
-- Gensim Documentation: Gensim 라이브러리에 대한 공식 문서로, 자연어 처리 및 문서 요약에 필요한 다양한 기능을 제공.
-- Kakao Developer: 카카오 API와 관련된 공식 개발자 문서입니다.
-- Medium Tutorial on Web Scraping with BeautifulSoup: BeautifulSoup을 사용한 웹 스크래핑 튜토리얼.
-- Introduction to Natural Language Processing: 자연어 처리 개념에 대한 소개 및 예제.
+- [BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/): 웹 스크래핑에 사용되는 BeautifulSoup 라이브러리의 공식 문서.
+- [lxml Documentation](https://lxml.de/): lxml 라이브러리에 대한 공식 문서로, XML 및 HTML 처리를 위한 다양한 기능을 제공.
+- [Requests Documentation](https://pypi.org/project/requests/): HTTP 요청을 간편하게 수행할 수 있는 Requests 라이브러리의 공식 문서.
+- [Gensim Documentation](https://radimrehurek.com/gensim/): Gensim 라이브러리에 대한 공식 문서로, 자연어 처리 및 문서 요약에 필요한 다양한 기능을 제공.
+- [Kakao Developer](https://developers.kakao.com/): 카카오 API와 관련된 공식 개발자 문서입니다.
+- [Medium Tutorial on Web Scraping with BeautifulSoup]([https://medium.com/@devsumitg/mastering-web-scraping-with-beautifulsoup-a-beginners-guide-c89cb3b11142](https://medium.com/@codewithpj/web-scraping-with-beautifulsoup-and-requests-python-libraries-72c164b58316)): BeautifulSoup을 사용한 웹 스크래핑 튜토리얼.
+- [Introduction to Natural Language Processing](https://builtin.com/data-science/introduction-nlp): 자연어 처리 개념에 대한 소개 및 예제.
 
